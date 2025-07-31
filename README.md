@@ -15,9 +15,9 @@ A comprehensive Android application demonstrating modern Android development pra
 ## Screenshots
 
 <!-- Add your app screenshots here -->
-| Home Screen | Details Screen | Settings |
-|-------------|----------------|----------|
-| ![Home](screenshots/home.png) | ![Details](screenshots/details.png) | ![Settings](screenshots/settings.png) |
+| Home Screen | Details Screen | 
+|-------------|----------------|
+| ![Home](https://raw.githubusercontent.com/sudhakar-r08/AndroidSampleProject/refs/heads/master/Home.png) | ![Details](https://raw.githubusercontent.com/sudhakar-r08/AndroidSampleProject/refs/heads/master/country1.png) | 
 
 ## Tech Stack
 
